@@ -5,9 +5,9 @@ All user visible changes to this project will be documented in this file. This p
 
 
 
-
+ывапывапывкп
 ## [0.6.0] · 2025-??-??
-[0.6.0]: /../../tree/v0.6.0
+[0.6.0]: /../../tree/v0.6.0ф
 
 [Diff](/../../compare/v0.5.1...v0.6.0) | [Milestone](/../../milestone/41)
 
